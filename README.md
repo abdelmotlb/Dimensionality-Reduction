@@ -1,5 +1,7 @@
-# Dimensionality-Reduction
-Implementing Dimensionality reduction algorithms like PCA and LDA and evaluating accuracy after applying with application.
+<h1 align="center"> Dimensionality-Reduction </h1>
+<p align="center">
+  <img src="./dim-red.png" width="750">
+</p>
 
 ## PCA
 <p align="center">
